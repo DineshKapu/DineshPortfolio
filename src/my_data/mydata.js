@@ -230,8 +230,8 @@ export const Bio = {
       tags: ["Java Script", "HTML", "CSS", "BOOTSTRAP","Icons","React"],
       category: "web app",
       image : Pf,
-      github: "",
-      webapp: "",
+      github: "https://github.com/DineshKapu/DineshPortfolio",
+      webapp: "https://dinesh-portfolio-indol.vercel.app/",
       member: [
         {
           name: "Dinesh Kapu",
