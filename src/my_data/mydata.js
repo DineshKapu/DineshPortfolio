@@ -14,7 +14,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/DineshKapu",
     resume:
-      "",
+      "https://drive.google.com/file/d/138qvnFBR2-HaDf1Bzy9OgkLc4XigIBmu/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/dinesh-kapu-207399243",
     leetcode: "https://leetcode.com/dinesh_1873/",
     codechef: "https://www.codechef.com/users/dinesh_1873",
@@ -105,44 +105,7 @@ export const Bio = {
       ],
     },
   ];
-  
-  export const experiences = [
-    {
-      id: 0,
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHbfJXtxeZfnIblCc6EJm6ozCRfxCgU7K4GkN5n5OpQg&s",
-      role: "Frontend Engineer Intern",
-      company: "Oasis Infobyte",
-      date: "April 2023 - May 2023",
-      desc: "Working on the frontend of the web application using HTML,CSS,JAVASCRIPT",
-      skills: [
-        "ReactJS",
-        "NodeJs",
-        "HTML",
-        "CSS",
-        "JavaScript",
-      ],
-      doc: "https://drive.google.com/file/d/1SGqTnYr8pEqiE6A2yRTRAzCRTTc2f07r/view?usp=sharing",
-    },
-    {
-      id: 1,
-      img: "https://media.licdn.com/dms/image/C510BAQH9g2wGm-e3tA/company-logo_200_200/0/1630583825170/fluentgrid_logo?e=1723680000&v=beta&t=mtImJ4sGhrDRveaADYsByyFNmy4DDZQcUD2XdQqT1RU1",
-      role: "Fullstack Internship",
-      company: "FluentGrid",
-      date: "May 2024 - June 2024",
-      desc: "Built a project by the application of MERN stack",
-      skills: [
-        "ReactJS",
-        "NodeJs",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "PostgreSql",
-        "MySql",
-      ],
-      doc : "https://drive.google.com/file/d/1m0juXwaX0U2ndKc5AOySNsizx4rVmJfJ/view?usp=drive_link",
-    },
-  ];
-  
+
   export const education = [
     {
       id: 0,
@@ -191,7 +154,7 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/DineshKapu/Charity_Forum",
-      webapp: "",
+      webapp: "#",
       member: [
         {
           name: "Dinesh Kapu",
@@ -209,8 +172,8 @@ export const Bio = {
         "Thought Waves is a blog website where users can explore, create, and manage content. It allows users to read existing blogs, write new posts, and update or delete their own entries. The platform provides a space for sharing thoughts and engaging with a community of readers and writers.",
       tags: ["React Js","Express Js","Node Js","MongoDB","Java Script","CSS"],
       category: "web app",
-      github: "",
-      webapp: "",
+      github: "https://github.com/DineshKapu/ThoughtWaves",
+      webapp: "https://66b4a001362e14e2aa6c48e6--joyful-griffin-72ad3e.netlify.app/",
       image : TW,
       member: [
         {
