@@ -164,19 +164,6 @@ const Navbar = () => {
               </IconContext.Provider>
             </GitHubButton>
             <GitHubButton
-              href={Bio.gfg}
-              style={{
-                padding: "10px 16px",
-                color: "white",
-                width: "max-content",
-              }}
-              target="_blank"
-            >
-              <IconContext.Provider value={{ color: "white", size: "1.6em" }}>
-  
-              </IconContext.Provider>
-            </GitHubButton>
-            <GitHubButton
               href={Bio.leetcode}
               style={{
                 padding: "10px 16px",
