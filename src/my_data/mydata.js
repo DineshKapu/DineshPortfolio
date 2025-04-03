@@ -14,7 +14,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/DineshKapu",
     resume:
-      "https://drive.google.com/file/d/138qvnFBR2-HaDf1Bzy9OgkLc4XigIBmu/view?usp=sharing",
+      "https://drive.google.com/file/d/12_CGBCxQj4F5KjIs71o2ak2ARoR2x5Pi/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/dinesh-kapu-207399243",
     leetcode: "https://leetcode.com/dinesh_1873/",
     codechef: "https://www.codechef.com/users/dinesh_1873",
